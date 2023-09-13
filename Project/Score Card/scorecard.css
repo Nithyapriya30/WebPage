@@ -1,0 +1,29 @@
+ table,
+ tr,
+ td,
+ th {
+     border-bottom: 1px solid #ddd;
+     border-collapse: collapse;
+     padding-left: 10px;
+     border:none;
+ }
+
+ table {
+     width: 60%;
+     height: 150%;
+     margin-top: 50px;
+     margin: auto;
+     padding-right: 10px;
+     border: 2px solid black;
+     border-top: hidden;
+     border-collapse: collapse;
+ }
+
+ th {
+     text-align: left;
+ }
+
+ .bl,
+ span {
+     color: blue;
+ }
